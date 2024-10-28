@@ -33,8 +33,9 @@
 ---
 
 ### 📈 Dashboard:
-![Dashboard](https://via.placeholder.com/400x200.png?text=Dashboard)  
-> Пример интерфейса панели управления, демонстрирующий удобство и функциональность.
+![GitHub Contributions](https://github.com/Shohdidor/Shohdidor/raw/main/images/github-contributions.svg)  
+![GitHub Issues](https://github-readme-stats.vercel.app/api?username=Shohdidor&show_icons=true&theme=dark&count_private=true&hide=prs)  
+> Статистика по коммитам и задачам, показывающая мою активность на GitHub.
 
 ---
 
