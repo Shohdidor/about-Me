@@ -33,11 +33,11 @@
 ---
 
 ### 🌎 Знание языков:
-- **Tajik** 🇹🇯
-- **English** 🇬🇧
-- **Turkish** 🇹🇷
-- **Russian** 🇷🇺
-- **Persian** 🇮🇷
+- **Tajik** ![Tajik Flag](https://flagcdn.com/tj.svg)
+- **English** ![English Flag](https://flagcdn.com/gb.svg)
+- **Turkish** ![Turkish Flag](https://flagcdn.com/tr.svg)
+- **Russian** ![Russian Flag](https://flagcdn.com/ru.svg)
+- **Persian** ![Persian Flag](https://flagcdn.com/ir.svg)
 
 ---
 
