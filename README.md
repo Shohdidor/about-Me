@@ -37,7 +37,9 @@
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Shohdidor&theme=dark)  
 
 #### 📊 Топ языков:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shohdidor&layout=compact&theme=dark&include_repo=true&langs_count=10&card_width=400)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shohdidor&layout=compact&theme=dark&langs_count=6&hide=HTML,CSS)  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=dark) 
+
 
 ---
 
