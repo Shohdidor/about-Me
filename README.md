@@ -33,9 +33,13 @@
 ---
 
 ### 📈 Dashboard:
-![GitHub Contributions](https://github.com/Shohdidor/Shohdidor/raw/main/images/github-contributions.svg)  
-![GitHub Issues](https://github-readme-stats.vercel.app/api?username=Shohdidor&show_icons=true&theme=dark&count_private=true&hide=prs)  
-> Статистика по коммитам и задачам, показывающая мою активность на GitHub.
+#### 💡 Активность на GitHub:
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Shohdidor&theme=dark)  
+> Отображает вашу активность на GitHub в виде стрика коммитов.
+
+#### 📊 Топ языков:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shohdidor&layout=compact&theme=dark)  
+> Отображает языки программирования, которые вы используете чаще всего.
 
 ---
 
@@ -50,7 +54,6 @@
 
 ### 📊 Моя статистика:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shohdidor&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shohdidor&layout=compact&theme=dark)
 
 ---
 
