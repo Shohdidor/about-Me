@@ -35,11 +35,9 @@
 ### 📈 Dashboard:
 #### 💡 Активность на GitHub:
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Shohdidor&theme=dark)  
-> Отображает вашу активность на GitHub в виде стрика коммитов.
 
 #### 📊 Топ языков:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shohdidor&layout=compact&theme=dark)  
-> Отображает языки программирования, которые вы используете чаще всего.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shohdidor&layout=compact&theme=dark&include_repo=true&langs_count=10&card_width=400)  
 
 ---
 
