@@ -33,7 +33,8 @@
 ---
 
 ### 📈 Dashboard:
-![Dashboard Preview](https://via.placeholder.com/400x200.png?text=Dashboard+Preview)  
+![Dashboard](https://via.placeholder.com/400x200.png?text=Dashboard)  
+> Пример интерфейса панели управления, демонстрирующий удобство и функциональность.
 
 ---
 
